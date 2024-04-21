@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "",
+  "homepage": "https://ectoracer.github.io/ectopolis",
+  "license": "AGPL-3.0-or-later",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ectoracer/Ectopolis.git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "bugs": {
+    "url": "https://github.com/Ectoracer/Ectopolis/issues"
+  }
+}
